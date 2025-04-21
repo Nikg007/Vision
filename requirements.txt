@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+soundfile
+python-dotenv
+groq
+RPi.GPIO
+edge-tts
